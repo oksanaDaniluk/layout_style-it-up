@@ -2,14 +2,17 @@ body {
   margin: 0;
 }
 
-body > div {
+.important,
+.interesting,
+.surprising,
+#header,
+#footer {
   width: 300px;
   height: 100px;
-  box-sizing: border-box;
   margin: 0 auto;
 }
 
-body > div:hover {
+div:hover {
   height: 200px;
 }
 
