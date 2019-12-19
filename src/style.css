@@ -12,10 +12,6 @@ body {
   margin: 0 auto;
 }
 
-div:hover {
-  height: 200px;
-}
-
 #header {
   background-color: blue;
 }
@@ -34,4 +30,8 @@ div:hover {
 
 #footer {
   background-color: black;
+}
+
+div:hover {
+  height: 200px;
 }
